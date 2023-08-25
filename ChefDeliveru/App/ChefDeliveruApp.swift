@@ -9,9 +9,10 @@ import SwiftUI
 
 @main
 struct ChefDeliveruApp: App {
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            
         }
     }
 }
